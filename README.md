@@ -1,2 +1,2 @@
-# Portofolio-Frontend
-Repositorio para el frontend de mi portofolio
+# Portofolio-Front-end
+Repositorio para el front-end de mi portofolio
